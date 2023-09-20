@@ -1,6 +1,6 @@
 # 🎴 Chifunt 
 
-**`bruh`**
+**`welcome`**
 
 ### Hi there 👋
 
