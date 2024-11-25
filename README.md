@@ -5,7 +5,6 @@
 ### Hi there 👋
 
 ![](https://github.com/Chifunt/Chifunt/blob/main/XOsX.gif)
-![](https://github.com/Chifunt/Chifunt/blob/main/XOsX.gif)
 
 <details>
  <summary><h3>Hmm</h3></summary>
